@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "kesa_solar", "src\kesa_solar\kesa_solar.csproj", "{204BFC78-EEFC-4297-AEA3-DC2E6FC80507}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Deploy|Any CPU = Deploy|Any CPU
+		DeployAndRun|Any CPU = DeployAndRun|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{204BFC78-EEFC-4297-AEA3-DC2E6FC80507}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{204BFC78-EEFC-4297-AEA3-DC2E6FC80507}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{204BFC78-EEFC-4297-AEA3-DC2E6FC80507}.Deploy|Any CPU.ActiveCfg = Deploy|Any CPU
+		{204BFC78-EEFC-4297-AEA3-DC2E6FC80507}.Deploy|Any CPU.Build.0 = Deploy|Any CPU
+		{204BFC78-EEFC-4297-AEA3-DC2E6FC80507}.DeployAndRun|Any CPU.ActiveCfg = DeployAndRun|Any CPU
+		{204BFC78-EEFC-4297-AEA3-DC2E6FC80507}.DeployAndRun|Any CPU.Build.0 = DeployAndRun|Any CPU
+		{204BFC78-EEFC-4297-AEA3-DC2E6FC80507}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{204BFC78-EEFC-4297-AEA3-DC2E6FC80507}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
