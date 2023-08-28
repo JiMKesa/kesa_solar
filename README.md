@@ -1,7 +1,8 @@
 # kesa_solar
 Kesa Solar Parts Mod
 
-This mod contains variours solar panels for probes, rockets, ...
+This mod contains variours solar panels for probes, rockets, ...<br>
+Differents types : flat, curved, deployable, shielded,...<br>
 
 FSP-XS1 : Flat solar panel<br>
 CSP-XS1 : Curved solar panel<br>
