@@ -1,0 +1,14 @@
+{
+    "name": "kesa_solar.Unity.Editor",
+    "rootNamespace": "kesa_solar.Unity.Editor",
+    "references": [],
+    "includePlatforms": ["Editor"],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

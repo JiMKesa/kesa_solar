@@ -1,0 +1,645 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 967700971, guid: 06dd3d5416bf43ea368cc39ff96e6d5a, type: 3}
+  m_Name: kesa_localization
+  m_EditorClassIdentifier: 
+  mSource:
+    UserAgreesToHaveItOnTheScene: 0
+    UserAgreesToHaveItInsideThePluginsFolder: 0
+    GoogleLiveSyncIsUptoDate: 1
+    mTerms:
+    - Term: Parts/Title/fspxs
+      TermType: 0
+      Languages:
+      - FSP-XS1
+      - FSP-XS1
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Subtitle/fspxs
+      TermType: 0
+      Languages:
+      - Flat Solar Panel
+      - Panneau Solaire Plat
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Manufacturer/fspxs
+      TermType: 0
+      Languages:
+      - KESA Agency
+      - KESA Agency
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Description/fspxs
+      TermType: 0
+      Languages:
+      - This small flat solar panel benefits from the latest technologies and provides
+        superior performance. However, it is necessary to orient it facing the sun.
+        It is lightweight and incorporates a backup battery.
+      - "Ce petit panneau solaire plat b\xE9n\xE9ficie des derni\xE8res technologies
+        et offre des performances sup\xE9rieures. Cependant, il est n\xE9cessaire
+        de l'orienter face au soleil. Il est l\xE9ger et int\xE8gre une batterie
+        de secours."
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Title/cspxs
+      TermType: 0
+      Languages:
+      - CSP-XS1
+      - CSP-XS1
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Subtitle/cspxs
+      TermType: 0
+      Languages:
+      - Curved Solar Panel
+      - "Panneau Solaire Incurv\xE9"
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Manufacturer/cspxs
+      TermType: 0
+      Languages:
+      - KESA Agency
+      - KESA Agency
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Description/cspxs
+      TermType: 0
+      Languages:
+      - This small curved solar panel benefits from the latest technologies and provides
+        superior performance. However, it is necessary to orient it facing the sun.
+        It is lightweight and incorporates a backup battery.
+      - "Ce petit panneau solaire incurv\xE9 b\xE9n\xE9ficie des derni\xE8res technologies
+        et offre des performances sup\xE9rieures. Cependant, il est n\xE9cessaire
+        de l'orienter face au soleil. Il est l\xE9ger et int\xE8gre une batterie
+        de secours."
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Title/cspsm
+      TermType: 0
+      Languages:
+      - CSP-SM1
+      - CSP-SM1
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Subtitle/cspsm
+      TermType: 0
+      Languages:
+      - Curved Solar Panel
+      - "Panneau Solaire Incurv\xE9"
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Manufacturer/cspsm
+      TermType: 0
+      Languages:
+      - KESA Agency
+      - KESA Agency
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Description/cspsm
+      TermType: 0
+      Languages:
+      - This medium curved solar panel benefits from the latest technologies and
+        provides superior performance. However, it is necessary to orient it facing
+        the sun. It is lightweight and incorporates a backup battery.
+      - "Ce panneau solaire m\xE9dium incurv\xE9 b\xE9n\xE9ficie des derni\xE8res
+        technologies et offre des performances sup\xE9rieures. Cependant, il est
+        n\xE9cessaire de l'orienter face au soleil. Il est l\xE9ger et int\xE8gre
+        une batterie de secours."
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Title/cspmd
+      TermType: 0
+      Languages:
+      - CSP-MD1
+      - CSP-MD1
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Subtitle/cspmd
+      TermType: 0
+      Languages:
+      - Curved Solar Panel
+      - "Panneau Solaire Incurv\xE9"
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Manufacturer/cspmd
+      TermType: 0
+      Languages:
+      - KESA Agency
+      - KESA Agency
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Description/cspmd
+      TermType: 0
+      Languages:
+      - This large curved solar panel benefits from the latest technologies and provides
+        superior performance. However, it is necessary to orient it facing the sun.
+        It is lightweight and incorporates a backup battery.
+      - "Ce panneau solaire large incurv\xE9 b\xE9n\xE9ficie des derni\xE8res technologies
+        et offre des performances sup\xE9rieures. Cependant, il est n\xE9cessaire
+        de l'orienter face au soleil. Il est l\xE9ger et int\xE8gre une batterie
+        de secours."
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Title/cspxl
+      TermType: 0
+      Languages:
+      - CSP-XL1
+      - CSP-XL1
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Subtitle/cspxl
+      TermType: 0
+      Languages:
+      - Curved Solar Panel
+      - "Panneau Solaire Incurv\xE9"
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Manufacturer/cspxl
+      TermType: 0
+      Languages:
+      - KESA Agency
+      - KESA Agency
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Description/cspxl
+      TermType: 0
+      Languages:
+      - This very large curved solar panel benefits from the latest technologies
+        and provides superior performance. However, it is necessary to orient it
+        facing the sun. It is lightweight and incorporates a backup battery.
+      - "Ce panneau solaire tr\xE8s large incurv\xE9 b\xE9n\xE9ficie des derni\xE8res
+        technologies et offre des performances sup\xE9rieures. Cependant, il est
+        n\xE9cessaire de l'orienter face au soleil. Il est l\xE9ger et int\xE8gre
+        une batterie de secours."
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Title/sp_f01_3x1
+      TermType: 0
+      Languages:
+      - DSPF-S1
+      - DSPF-S1
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Subtitle/sp_f01_3x1
+      TermType: 0
+      Languages:
+      - Deployable flat panel
+      - "Panneau Solaire Plat D\xE9ployable"
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Manufacturer/sp_f01_3x1
+      TermType: 0
+      Languages:
+      - KESA Agency
+      - KESA Agency
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Description/sp_f01_3x1
+      TermType: 0
+      Languages:
+      - This medium flat and deployable solar panel benefits from the latest technologies
+        and provides superior performance.
+      - "Ce panneau solaire moyen, plat et d\xE9ployable b\xE9n\xE9ficie des derni\xE8res
+        technologies et offre des performances sup\xE9rieures."
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Title/mcsp
+      TermType: 0
+      Languages:
+      - DSPC-S1
+      - DSPC-S1
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Subtitle/mcsp
+      TermType: 0
+      Languages:
+      - Deployable Curved Solar Panel
+      - "Panneau Solaire Incurv\xE9 D\xE9ployable"
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Manufacturer/mcsp
+      TermType: 0
+      Languages:
+      - KESA Agency
+      - KESA Agency
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Description/mcsp
+      TermType: 0
+      Languages:
+      - This small curved and deployable solar panel benefits from the latest technologies
+        and provides superior performance.
+      - "Ce petit panneau solaire, incurv\xE9 et d\xE9ployable b\xE9n\xE9ficie des
+        derni\xE8res technologies et offre des performances sup\xE9rieures."
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Title/sp_f02_20x2
+      TermType: 0
+      Languages:
+      - DSPF-SAW1
+      - DSPF-SAW1
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Subtitle/sp_f02_20x2
+      TermType: 0
+      Languages:
+      - Deployable Station Solar Panel
+      - "Panneau Solaire D\xE9ployable de Station"
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Manufacturer/sp_f02_20x2
+      TermType: 0
+      Languages:
+      - KESA Agency
+      - KESA Agency
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Description/sp_f02_20x2
+      TermType: 0
+      Languages:
+      - This giant deployable solar panel for station provides an electricity production
+        of 30Kw. It includes 33,000 electrical cells for an area of 20m x 5m.
+      - "Ce panneau solaire g\xE9ant d\xE9ployable pour station assure une production
+        \xE9lectrique de 30Kw. Il comprend 33000 cellules \xE9lectriques pour une
+        surface de 20m x 5m."
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Title/sp_f03_5x1
+      TermType: 0
+      Languages:
+      - DSPF_J1
+      - DSPF_J1
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Subtitle/sp_f03_5x1
+      TermType: 0
+      Languages:
+      - Flat Deployable Solar Panel x5
+      - "Panneau solaire plat d\xE9ployable x5"
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Manufacturer/sp_f03_5x1
+      TermType: 0
+      Languages:
+      - KESA Agency
+      - KESA Agency
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Description/sp_f03_5x1
+      TermType: 0
+      Languages:
+      - This 5-pieces deployable solar panel was designed for the Juice probe.
+      - "Ce panneau solaire d\xE9ployable en 5 \xE9l\xE9ments a \xE9t\xE9 co\xE7u
+        pour la sonde Juice."
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Title/csp25
+      TermType: 0
+      Languages:
+      - CSP-G25
+      - CSP-G25
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Subtitle/csp25
+      TermType: 0
+      Languages:
+      - Giant Curved Solar Panel
+      - "Panneau Solaire G\xE9ant Incurv\xE9"
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Manufacturer/csp25
+      TermType: 0
+      Languages:
+      - KESA Agency
+      - KESA Agency
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Description/csp25
+      TermType: 0
+      Languages:
+      - 'A giant curved solar panel for rocket '
+      - "Un panneau solaire incurv\xE9 g\xE9ant pour fus\xE9e"
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Title/csp375
+      TermType: 0
+      Languages:
+      - CSP-G375
+      - CSP-G375
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Subtitle/csp375
+      TermType: 0
+      Languages:
+      - Giant Curved Solar Panel
+      - "Panneau Solaire G\xE9ant Incurv\xE9"
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Manufacturer/csp375
+      TermType: 0
+      Languages:
+      - KESA Agency
+      - KESA Agency
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Description/csp375
+      TermType: 0
+      Languages:
+      - 'A giant curved solar panel for rocket '
+      - "Un panneau solaire incurv\xE9 g\xE9ant pour fus\xE9e"
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Title/csp5
+      TermType: 0
+      Languages:
+      - CSP-G5
+      - CSP-G5
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Subtitle/csp5
+      TermType: 0
+      Languages:
+      - Giant Curved Solar Panel
+      - "Panneau Solaire G\xE9ant Incurv\xE9"
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Manufacturer/csp5
+      TermType: 0
+      Languages:
+      - KESA Agency
+      - KESA Agency
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Description/csp5
+      TermType: 0
+      Languages:
+      - 'A giant curved solar panel for rocket '
+      - "Un panneau solaire incurv\xE9 g\xE9ant pour fus\xE9e"
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Title/sp_f04_2x1
+      TermType: 0
+      Languages:
+      - DFSP-S2
+      - DFSP-S2
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Subtitle/sp_f04_2x1
+      TermType: 0
+      Languages:
+      - Flat Deployable Solar Panel
+      - "Panneau Solaire Plat D\xE9ployable"
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Manufacturer/sp_f04_2x1
+      TermType: 0
+      Languages:
+      - KESA Agency
+      - KESA Agency
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Description/sp_f04_2x1
+      TermType: 0
+      Languages:
+      - This 2-pieces deployable solar panel was designed for probes.
+      - "Ce panneau solaire d\xE9ployable en 2 \xE9l\xE9ments a \xE9t\xE9 co\xE7u
+        pour les sondes"
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Title/sp_f05_4x3
+      TermType: 0
+      Languages:
+      - DSPF-L12
+      - DSPF-L12
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Subtitle/sp_f05_4x3
+      TermType: 0
+      Languages:
+      - Flat Deployable Solar Panel
+      - "Panneau Solaire Plat D\xE9ployable"
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Manufacturer/sp_f05_4x3
+      TermType: 0
+      Languages:
+      - KESA Agency
+      - KESA Agency
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Description/sp_f05_4x3
+      TermType: 0
+      Languages:
+      - This 12-pieces deployable solar panel was designed for maximum power
+      - "Ce panneau solaire d\xE9ployable en 12 \xE9l\xE9ments a \xE9t\xE9 co\xE7u
+        pour un maximum d'\xE9nergie"
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Title/cdsp5
+      TermType: 0
+      Languages:
+      - DSPC-M1
+      - DSPC-M1
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Subtitle/cdsp5
+      TermType: 0
+      Languages:
+      - Deployable Curved Solar Panel
+      - "Panneau Solaire Incurv\xE9 D\xE9ployable"
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Manufacturer/cdsp5
+      TermType: 0
+      Languages:
+      - KESA Agency
+      - KESA Agency
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Description/cdsp5
+      TermType: 0
+      Languages:
+      - This medium curved and deployable solar panel benefits from the latest technologies
+        and provides superior performance.
+      - "Ce panneau solaire moyen, incurv\xE9 et d\xE9ployable b\xE9n\xE9ficie des
+        derni\xE8res technologies et offre des performances sup\xE9rieures."
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Title/sp_f06_25x1
+      TermType: 0
+      Languages:
+      - DFSP-M25
+      - DFSP-M25
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Subtitle/sp_f06_25x1
+      TermType: 0
+      Languages:
+      - Flat Deployable Solar Panel
+      - "Panneau Solaire Plat D\xE9ployable"
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Manufacturer/sp_f06_25x1
+      TermType: 0
+      Languages:
+      - KESA Agency
+      - KESA Agency
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Description/sp_f06_25x1
+      TermType: 0
+      Languages:
+      - This 21-pieces deployable solar panel was designed for probes.
+      - "Ce panneau solaire d\xE9ployable en 21 \xE9l\xE9ments a \xE9t\xE9 co\xE7u
+        pour les sondes"
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Title/sp_f06_s_25x1
+      TermType: 0
+      Languages:
+      - DFSSP-M25
+      - DFSSP-M25
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Subtitle/sp_f06_s_25x1
+      TermType: 0
+      Languages:
+      - Flat Shielded Deployable Solar Panel
+      - "Panneau Solaire Plat D\xE9ployable Blind\xE9"
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Manufacturer/sp_f06_s_25x1
+      TermType: 0
+      Languages:
+      - KESA Agency
+      - KESA Agency
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Description/sp_f06_s_25x1
+      TermType: 0
+      Languages:
+      - This 21-pieces shielded deployable solar panel was designed for probes.
+      - "Ce panneau solaire d\xE9ployable blind\xE9 en 21 \xE9l\xE9ments a \xE9t\xE9
+        co\xE7u pour les sondes"
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Title/cdsp5
+      TermType: 0
+      Languages:
+      - DSPC-M1
+      - DSPC-M1
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Subtitle/cdsp5
+      TermType: 0
+      Languages:
+      - Curved Deployable Solar Panel
+      - "Panneau solaire incurv\xE9 d\xE9ployable"
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Manufacturer/cdsp5
+      TermType: 0
+      Languages:
+      - KESA Agency
+      - KESA Agency
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Description/cdsp5
+      TermType: 0
+      Languages:
+      - This  curved and deployable solar panel benefits from the latest technologies
+        and provides superior performance.
+      - "Ce  panneau solaire, incurv\xE9 et d\xE9ployable b\xE9n\xE9ficie des derni\xE8res
+        technologies et offre des performances sup\xE9rieures."
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Title/cdssp5
+      TermType: 0
+      Languages:
+      - DSSPC-M1
+      - DSSPC-M1
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Subtitle/cdssp5
+      TermType: 0
+      Languages:
+      - Curved Deployable and Shielded Solar Panel
+      - "Panneau solaire incurv\xE9 blind\xE9 d\xE9ployable"
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Manufacturer/cdssp5
+      TermType: 0
+      Languages:
+      - KESA Agency
+      - KESA Agency
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Description/cdssp5
+      TermType: 0
+      Languages:
+      - This  curved, shielded and deployable solar panel benefits from the latest
+        technologies and provides superior performance.
+      - "Ce  panneau solaire blind\xE9, incurv\xE9 et d\xE9ployable b\xE9n\xE9ficie
+        des derni\xE8res technologies et offre des performances sup\xE9rieures."
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Title/hubblesp
+      TermType: 0
+      Languages:
+      - DSP-HUBBLE
+      - DSP-HUBBLE
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Subtitle/hubblesp
+      TermType: 0
+      Languages:
+      - Hubble Deployable Solar Panel
+      - "Panneau Solaire D\xE9ployable Hubble"
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Manufacturer/hubblesp
+      TermType: 0
+      Languages:
+      - KESA Agency
+      - KESA Agency
+      Flags: 
+      Languages_Touch: []
+    - Term: Parts/Description/hubblesp
+      TermType: 0
+      Languages:
+      - This deployable solar panel was designed to electrically power the Hubble
+        telescope
+      - "Ce panneau solaire d\xE9ployable a \xE9t\xE9 con\xE7u pour alimenter \xE9lectriquement
+        le t\xE9lescope Hubble"
+      Flags: 
+      Languages_Touch: []
+    CaseInsensitiveTerms: 0
+    OnMissingTranslation: 1
+    mTerm_AppName: 
+    mLanguages:
+    - Name: English
+      Code: en
+      Flags: 0
+    - Name: French
+      Code: fr
+      Flags: 0
+    IgnoreDeviceLanguage: 0
+    _AllowUnloadingLanguages: 0
+    Google_WebServiceURL: 
+    Google_SpreadsheetKey: 
+    Google_SpreadsheetName: 
+    Google_LastUpdatedVersion: 
+    GoogleUpdateFrequency: 3
+    GoogleInEditorCheckFrequency: 2
+    GoogleUpdateSynchronization: 1
+    GoogleUpdateDelay: 0
+    Assets: []

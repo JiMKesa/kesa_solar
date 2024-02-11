@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationCache Version="1" SchemaVersion="103">
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\kesasolar\KesaSolar_Wwise\Virtual Acoustics\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\kesasolar\KesaSolar_Wwise\Triggers\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\kesasolar\KesaSolar_Wwise\Switches\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\kesasolar\KesaSolar_Wwise\States\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\kesasolar\KesaSolar_Wwise\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\kesasolar\KesaSolar_Wwise\SoundBanks\Default Work Unit.wwu" DateLow="1700322865" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\kesasolar\KesaSolar_Wwise\Queries\Factory Queries.wwu" DateLow="1689768378" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\kesasolar\KesaSolar_Wwise\Queries\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\kesasolar\KesaSolar_Wwise\Presets\Factory Spatial Audio.wwu" DateLow="1689768378" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\kesasolar\KesaSolar_Wwise\Presets\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\kesasolar\KesaSolar_Wwise\Modulators\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\kesasolar\KesaSolar_Wwise\Mixing Sessions\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\kesasolar\KesaSolar_Wwise\Metadata\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\kesasolar\KesaSolar_Wwise\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\kesasolar\KesaSolar_Wwise\Kesa_solar.wproj" DateLow="1707499602" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\kesasolar\KesaSolar_Wwise\Kesa_solar.jmb.wsettings" DateLow="1707554431" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\kesasolar\KesaSolar_Wwise\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\kesasolar\KesaSolar_Wwise\Game Parameters\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\kesasolar\KesaSolar_Wwise\Events\Default Work Unit.wwu" DateLow="1700322865" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\kesasolar\KesaSolar_Wwise\Effects\Factory Effects.wwu" DateLow="1689768378" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\kesasolar\KesaSolar_Wwise\Effects\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\kesasolar\KesaSolar_Wwise\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\kesasolar\KesaSolar_Wwise\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1689768378" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\kesasolar\KesaSolar_Wwise\Conversion Settings\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\kesasolar\KesaSolar_Wwise\Control Surface Sessions\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\kesasolar\KesaSolar_Wwise\Audio Devices\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\kesasolar\KesaSolar_Wwise\Attenuations\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\kesasolar\KesaSolar_Wwise\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1700322865" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\Kesa_Solar_Mod\Kesa_Solar_Wwise\Virtual Acoustics\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\Kesa_Solar_Mod\Kesa_Solar_Wwise\Triggers\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\Kesa_Solar_Mod\Kesa_Solar_Wwise\Switches\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\Kesa_Solar_Mod\Kesa_Solar_Wwise\States\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\Kesa_Solar_Mod\Kesa_Solar_Wwise\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\Kesa_Solar_Mod\Kesa_Solar_Wwise\SoundBanks\Default Work Unit.wwu" DateLow="1693083421" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\Kesa_Solar_Mod\Kesa_Solar_Wwise\Queries\Factory Queries.wwu" DateLow="1689768378" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\Kesa_Solar_Mod\Kesa_Solar_Wwise\Queries\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\Kesa_Solar_Mod\Kesa_Solar_Wwise\Presets\Factory Spatial Audio.wwu" DateLow="1689768378" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\Kesa_Solar_Mod\Kesa_Solar_Wwise\Presets\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\Kesa_Solar_Mod\Kesa_Solar_Wwise\Modulators\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\Kesa_Solar_Mod\Kesa_Solar_Wwise\Mixing Sessions\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\Kesa_Solar_Mod\Kesa_Solar_Wwise\Metadata\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\Kesa_Solar_Mod\Kesa_Solar_Wwise\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\Kesa_Solar_Mod\Kesa_Solar_Wwise\Kesa_solar.wproj" DateLow="1693083324" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\Kesa_Solar_Mod\Kesa_Solar_Wwise\Kesa_solar.jmb.wsettings" DateLow="1700316575" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\Kesa_Solar_Mod\Kesa_Solar_Wwise\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\Kesa_Solar_Mod\Kesa_Solar_Wwise\Game Parameters\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\Kesa_Solar_Mod\Kesa_Solar_Wwise\Events\Default Work Unit.wwu" DateLow="1690963699" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\Kesa_Solar_Mod\Kesa_Solar_Wwise\Effects\Factory Effects.wwu" DateLow="1689768378" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\Kesa_Solar_Mod\Kesa_Solar_Wwise\Effects\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\Kesa_Solar_Mod\Kesa_Solar_Wwise\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\Kesa_Solar_Mod\Kesa_Solar_Wwise\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1689768378" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\Kesa_Solar_Mod\Kesa_Solar_Wwise\Conversion Settings\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\Kesa_Solar_Mod\Kesa_Solar_Wwise\Control Surface Sessions\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\Kesa_Solar_Mod\Kesa_Solar_Wwise\Audio Devices\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\Kesa_Solar_Mod\Kesa_Solar_Wwise\Attenuations\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\Kesa_Solar_Mod\Kesa_Solar_Wwise\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1690995714" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\kesa_solar\KesaSolar_Wwise\Virtual Acoustics\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\kesa_solar\KesaSolar_Wwise\Triggers\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\kesa_solar\KesaSolar_Wwise\Switches\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\kesa_solar\KesaSolar_Wwise\States\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\kesa_solar\KesaSolar_Wwise\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\kesa_solar\KesaSolar_Wwise\SoundBanks\Default Work Unit.wwu" DateLow="1700322865" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\kesa_solar\KesaSolar_Wwise\Queries\Factory Queries.wwu" DateLow="1689768378" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\kesa_solar\KesaSolar_Wwise\Queries\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\kesa_solar\KesaSolar_Wwise\Presets\Factory Spatial Audio.wwu" DateLow="1689768378" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\kesa_solar\KesaSolar_Wwise\Presets\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\kesa_solar\KesaSolar_Wwise\Modulators\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\kesa_solar\KesaSolar_Wwise\Mixing Sessions\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\kesa_solar\KesaSolar_Wwise\Metadata\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\kesa_solar\KesaSolar_Wwise\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\kesa_solar\KesaSolar_Wwise\Kesa_solar.wproj" DateLow="1707631789" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\kesa_solar\KesaSolar_Wwise\Kesa_solar.jmb.wsettings" DateLow="1707634815" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\kesa_solar\KesaSolar_Wwise\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\kesa_solar\KesaSolar_Wwise\Game Parameters\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\kesa_solar\KesaSolar_Wwise\Events\Default Work Unit.wwu" DateLow="1700322865" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\kesa_solar\KesaSolar_Wwise\Effects\Factory Effects.wwu" DateLow="1689768378" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\kesa_solar\KesaSolar_Wwise\Effects\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\kesa_solar\KesaSolar_Wwise\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\kesa_solar\KesaSolar_Wwise\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1689768378" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\kesa_solar\KesaSolar_Wwise\Conversion Settings\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\kesa_solar\KesaSolar_Wwise\Control Surface Sessions\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\kesa_solar\KesaSolar_Wwise\Audio Devices\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\kesa_solar\KesaSolar_Wwise\Attenuations\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\Documents\Unity2022\kesa_solar\KesaSolar_Wwise\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1700322865" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\DEV\Wwise\Kesa_solar\Virtual Acoustics\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\DEV\Wwise\Kesa_solar\Triggers\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\DEV\Wwise\Kesa_solar\Switches\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\DEV\Wwise\Kesa_solar\States\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\DEV\Wwise\Kesa_solar\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\DEV\Wwise\Kesa_solar\SoundBanks\Default Work Unit.wwu" DateLow="1693083421" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\DEV\Wwise\Kesa_solar\Queries\Factory Queries.wwu" DateLow="1689768378" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\DEV\Wwise\Kesa_solar\Queries\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\DEV\Wwise\Kesa_solar\Presets\Factory Spatial Audio.wwu" DateLow="1689768378" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\DEV\Wwise\Kesa_solar\Presets\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\DEV\Wwise\Kesa_solar\Modulators\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\DEV\Wwise\Kesa_solar\Mixing Sessions\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\DEV\Wwise\Kesa_solar\Metadata\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\DEV\Wwise\Kesa_solar\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\DEV\Wwise\Kesa_solar\Kesa_solar.wproj" DateLow="1693083324" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\DEV\Wwise\Kesa_solar\Kesa_solar.jmb.wsettings" DateLow="1698778485" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\DEV\Wwise\Kesa_solar\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\DEV\Wwise\Kesa_solar\Game Parameters\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\DEV\Wwise\Kesa_solar\Events\Default Work Unit.wwu" DateLow="1690963699" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\DEV\Wwise\Kesa_solar\Effects\Factory Effects.wwu" DateLow="1689768378" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\DEV\Wwise\Kesa_solar\Effects\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\DEV\Wwise\Kesa_solar\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\DEV\Wwise\Kesa_solar\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1689768378" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\DEV\Wwise\Kesa_solar\Conversion Settings\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\DEV\Wwise\Kesa_solar\Control Surface Sessions\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\DEV\Wwise\Kesa_solar\Audio Devices\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\DEV\Wwise\Kesa_solar\Attenuations\Default Work Unit.wwu" DateLow="1689768523" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\jmb\DEV\Wwise\Kesa_solar\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1690995714" DateHigh="0"/>
+</ValidationCache>

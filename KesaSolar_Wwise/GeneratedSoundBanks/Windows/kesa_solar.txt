@@ -1,0 +1,31 @@
+Event	ID	Name			Wwise Object Path	Notes
+	362686248	deploy1_stop			\Default Work Unit\deploy1_stop	
+	632693656	bip1_play			\Default Work Unit\bip1_play	
+	768365359	lift2_stop			\Default Work Unit\lift2_stop	
+	1073681826	deploy3_stop			\Default Work Unit\deploy3_stop	
+	1229136034	clac1_play			\Default Work Unit\clac1_play	
+	1247680889	clac2_stop			\Default Work Unit\clac2_stop	
+	1469211817	deploy4_play			\Default Work Unit\deploy4_play	
+	1669962388	lift1_play			\Default Work Unit\lift1_play	
+	1830675452	clac1_stop			\Default Work Unit\clac1_stop	
+	2117558675	clac2_play			\Default Work Unit\clac2_play	
+	2210764533	deploy2_stop			\Default Work Unit\deploy2_stop	
+	2730422816	deploy3_play			\Default Work Unit\deploy3_play	
+	2963564522	bip1_stop			\Default Work Unit\bip1_stop	
+	2991628751	deploy4_stop			\Default Work Unit\deploy4_stop	
+	3373865070	lift1_stop			\Default Work Unit\lift1_stop	
+	3475625639	deploy2_play			\Default Work Unit\deploy2_play	
+	3540915721	lift2_play			\Default Work Unit\lift2_play	
+	3927116182	deploy1_play			\Default Work Unit\deploy1_play	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	356021594	deploy3	C:\Users\jmb\Documents\Unity2022\kesasolar\KesaSolar_Wwise\.cache\Windows\SFX\deploy3_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\deploy3		109504
+	556488811	bip1	C:\Users\jmb\Documents\Unity2022\kesasolar\KesaSolar_Wwise\.cache\Windows\SFX\bip1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\bip1		170138
+	566363865	deploy4	C:\Users\jmb\Documents\Unity2022\kesasolar\KesaSolar_Wwise\.cache\Windows\SFX\deploy4_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\deploy4		88232
+	586910184	clac1	C:\Users\jmb\Documents\Unity2022\kesasolar\KesaSolar_Wwise\.cache\Windows\SFX\clac1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\clac1		61382
+	783808014	lift2	C:\Users\jmb\Documents\Unity2022\kesasolar\KesaSolar_Wwise\.cache\Windows\SFX\lift2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\lift2		134848
+	898642044	lift1	C:\Users\jmb\Documents\Unity2022\kesasolar\KesaSolar_Wwise\.cache\Windows\SFX\lift1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\lift1		251200
+	920648510	deploy2	C:\Users\jmb\Documents\Unity2022\kesasolar\KesaSolar_Wwise\.cache\Windows\SFX\deploy2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\deploy2		410176
+	1036063158	deploy1	C:\Users\jmb\Documents\Unity2022\kesasolar\KesaSolar_Wwise\.cache\Windows\SFX\deploy1_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\deploy1		506944
+	1038467427	clac2	C:\Users\jmb\Documents\Unity2022\kesasolar\KesaSolar_Wwise\.cache\Windows\SFX\clac2_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\clac2		34734
+

@@ -1,0 +1,108 @@
+Key,Type,Desc,English,French,Chinese (Simplified)
+
+Parts/Title/cdsp5,Text,,"DSPC-M1","DSPC-M1","DSPC-M1"
+Parts/Subtitle/cdsp5,Text,,"Curved Deployable Solar Panel","Panneau solaire incurvé déployable","可展开式弧形太阳能板"
+Parts/Manufacturer/cdsp5,Text,,"KESA Agency","KESA Agency","坎星欧空局"
+Parts/Description/cdsp5,Text,,"This  curved and deployable solar panel benefits from the latest technologies and provides superior performance.","Ce  panneau solaire, incurvé et déployable bénéficie des dernières technologies et offre des performances supérieures.","这种可展开式弧形太阳能板受益于最新技术，并提供卓越的性能。"
+
+Parts/Title/cdssp5,Text,,"DSSPC-M1","DSSPC-M1","DSSPC-M1"
+Parts/Subtitle/cdssp5,Text,,"Curved Deployable and Shielded Solar Panel","Panneau solaire incurvé blindé déployable","带保护壳的可展开式弧形太阳能板"
+Parts/Manufacturer/cdssp5,Text,,"KESA Agency","KESA Agency","坎星欧空局"
+Parts/Description/cdssp5,Text,,"This  curved, shielded and deployable solar panel benefits from the latest technologies and provides superior performance.","Ce  panneau solaire blindé, incurvé et déployable bénéficie des dernières technologies et offre des performances supérieures.","这种带保护壳的可展开式弧形太阳能板受益于最新技术，并提供卓越的性能。"
+
+Parts/Title/csp25,Text,,"CSP-G25","CSP-G25","CSP-G25"
+Parts/Subtitle/csp25,Text,,"Giant Curved Solar Panel","Panneau Solaire Géant Incurvé","大型弧形太阳能板"
+Parts/Manufacturer/csp25,Text,,"KESA Agency","KESA Agency","坎星欧空局"
+Parts/Description/csp25,Text,,"A giant curved solar panel for rocket ","Un panneau solaire incurvé géant pour fusée","用于火箭的大型弧形太阳能板。"
+
+Parts/Title/csp375,Text,,"CSP-G375","CSP-G375","CSP-G375"
+Parts/Subtitle/csp375,Text,,"Giant Curved Solar Panel","Panneau Solaire Géant Incurvé","大型弧形太阳能板"
+Parts/Manufacturer/csp375,Text,,"KESA Agency","KESA Agency","坎星欧空局"
+Parts/Description/csp375,Text,,"A giant curved solar panel for rocket ","Un panneau solaire incurvé géant pour fusée","用于火箭的大型弧形太阳能板。"
+
+Parts/Title/csp5,Text,,"CSP-G5","CSP-G5","CSP-G5"
+Parts/Subtitle/csp5,Text,,"Giant Curved Solar Panel","Panneau Solaire Géant Incurvé","大型弧形太阳能板"
+Parts/Manufacturer/csp5,Text,,"KESA Agency","KESA Agency","坎星欧空局"
+Parts/Description/csp5,Text,,"A giant curved solar panel for rocket ","Un panneau solaire incurvé géant pour fusée","用于火箭的大型弧形太阳能板。"
+
+Parts/Title/cspmd,Text,,"CSP-MD1","CSP-MD1","CSP-MD1"
+Parts/Subtitle/cspmd,Text,,"Curved Solar Panel","Panneau Solaire Incurvé","弧形太阳能板"
+Parts/Manufacturer/cspmd,Text,,"KESA Agency","KESA Agency","坎星欧空局"
+Parts/Description/cspmd,Text,,"This large curved solar panel benefits from the latest technologies and provides superior performance. However, it is necessary to orient it facing the sun. It is lightweight and incorporates a backup battery.","Ce panneau solaire large incurvé bénéficie des dernières technologies et offre des performances supérieures. Cependant, il est nécessaire de l'orienter face au soleil. Il est léger et intègre une batterie de secours.","这款大型弧形太阳能板受益于最新技术，并提供卓越的性能。然而，需要将其朝向太阳。它重量轻，并包含备用电池。"
+
+Parts/Title/cspsm,Text,,"CSP-SM1","CSP-SM1","CSP-SM1"
+Parts/Subtitle/cspsm,Text,,"Curved Solar Panel","Panneau Solaire Incurvé","弧形太阳能板"
+Parts/Manufacturer/cspsm,Text,,"KESA Agency","KESA Agency","坎星欧空局"
+Parts/Description/cspsm,Text,,"This medium curved solar panel benefits from the latest technologies and provides superior performance. However, it is necessary to orient it facing the sun. It is lightweight and incorporates a backup battery.","Ce panneau solaire médium incurvé bénéficie des dernières technologies et offre des performances supérieures. Cependant, il est nécessaire de l'orienter face au soleil. Il est léger et intègre une batterie de secours.","这款中型弧形太阳能板受益于最新技术，并提供卓越的性能。然而，需要将其朝向太阳。它重量轻，并包含备用电池。"
+
+Parts/Title/cspxl,Text,,"CSP-XL1","CSP-XL1","CSP-XL1"
+Parts/Subtitle/cspxl,Text,,"Curved Solar Panel","Panneau Solaire Incurvé","弧形太阳能板"
+Parts/Manufacturer/cspxl,Text,,"KESA Agency","KESA Agency","坎星欧空局"
+Parts/Description/cspxl,Text,,"This very large curved solar panel benefits from the latest technologies and provides superior performance. However, it is necessary to orient it facing the sun. It is lightweight and incorporates a backup battery.","Ce panneau solaire très large incurvé bénéficie des dernières technologies et offre des performances supérieures. Cependant, il est nécessaire de l'orienter face au soleil. Il est léger et intègre une batterie de secours.","这款超大型弧形太阳能板受益于最新技术，并提供卓越的性能。然而，需要将其朝向太阳。它重量轻，并包含备用电池。"
+
+Parts/Title/cspxs,Text,,"CSP-XS1","CSP-XS1","CSP-XS1"
+Parts/Subtitle/cspxs,Text,,"Curved Solar Panel","Panneau Solaire Incurvé","弧形太阳能板"
+Parts/Manufacturer/cspxs,Text,,"KESA Agency","KESA Agency","坎星欧空局"
+Parts/Description/cspxs,Text,,"This small curved solar panel benefits from the latest technologies and provides superior performance. However, it is necessary to orient it facing the sun. It is lightweight and incorporates a backup battery.","Ce petit panneau solaire incurvé bénéficie des dernières technologies et offre des performances supérieures. Cependant, il est nécessaire de l'orienter face au soleil. Il est léger et intègre une batterie de secours.","这款小型弧形太阳能板受益于最新技术，并提供卓越的性能。然而，需要将其朝向太阳。它重量轻，并包含备用电池。"
+
+Parts/Title/fspxs,Text,,"FSP-XS1","FSP-XS1","FSP-XS1"
+Parts/Subtitle/fspxs,Text,,"Flat Solar Panel","Panneau Solaire Plat","平面太阳能板"
+Parts/Manufacturer/fspxs,Text,,"KESA Agency","KESA Agency","坎星欧空局"
+Parts/Description/fspxs,Text,,"This small flat solar panel benefits from the latest technologies and provides superior performance. However, it is necessary to orient it facing the sun. It is lightweight and incorporates a backup battery.","Ce petit panneau solaire plat bénéficie des dernières technologies et offre des performances supérieures. Cependant, il est nécessaire de l'orienter face au soleil. Il est léger et intègre une batterie de secours.","这款小型平面太阳能板受益于最新技术，并提供卓越的性能。然而，需要将其朝向太阳。它重量轻，并包含备用电池。"
+
+Parts/Title/hubblesp,Text,,"DSP-HUBBLE","DSP-HUBBLE","DSP-HUBBLE"
+Parts/Subtitle/hubblesp,Text,,"Hubble Deployable Solar Panel","Panneau Solaire Déployable Hubble","哈勃可展开式太阳能板"
+Parts/Manufacturer/hubblesp,Text,,"KESA Agency","KESA Agency","坎星欧空局"
+Parts/Description/hubblesp,Text,,"This deployable solar panel was designed to electrically power the Hubble telescope","Ce panneau solaire déployable a été conçu pour alimenter électriquement le télescope Hubble","这款可展开式太阳能板旨在为哈勃望远镜提供电力。"
+
+Parts/Title/mcsp,Text,,"DSPC-S1","DSPC-S1","DSPC-S1"
+Parts/Subtitle/mcsp,Text,,"Deployable Curved Solar Panel","Panneau Solaire Incurvé Déployable","可展开式弧形太阳能板"
+Parts/Manufacturer/mcsp,Text,,"KESA Agency","KESA Agency","坎星欧空局"
+Parts/Description/mcsp,Text,,"This small curved and deployable solar panel benefits from the latest technologies and provides superior performance.","Ce petit panneau solaire, incurvé et déployable bénéficie des dernières technologies et offre des performances supérieures.","这款小型可展开式弧形太阳能板受益于最新技术，并提供卓越的性能。"
+
+Parts/Title/sp_f01_3x1,Text,,"DSPF-S1","DSPF-S1","DSPF-S1"
+Parts/Subtitle/sp_f01_3x1,Text,,"Deployable flat panel","Panneau Solaire Plat Déployable","可展开式平面太阳能板"
+Parts/Manufacturer/sp_f01_3x1,Text,,"KESA Agency","KESA Agency","坎星欧空局"
+Parts/Description/sp_f01_3x1,Text,,"This medium flat and deployable solar panel benefits from the latest technologies and provides superior performance.","Ce panneau solaire moyen, plat et déployable bénéficie des dernières technologies et offre des performances supérieures.","这款中型可展开式平面太阳能板受益于最新技术，并提供卓越的性能。"
+
+Parts/Title/sp_f02_20x2,Text,,"DSPF-SAW1","DSPF-SAW1","DSPF-SAW1"
+Parts/Subtitle/sp_f02_20x2,Text,,"Deployable Station Solar Panel","Panneau Solaire Déployable de Station","可展开式空间站太阳能板"
+Parts/Manufacturer/sp_f02_20x2,Text,,"KESA Agency","KESA Agency","坎星欧空局"
+Parts/Description/sp_f02_20x2,Text,,"This giant deployable solar panel for station provides an electricity production of 30Kw. It includes 33,000 electrical cells for an area of 20m x 5m.","Ce panneau solaire géant déployable pour station assure une production électrique de 30Kw. Il comprend 33000 cellules électriques pour une surface de 20m x 5m.","这款巨型可展开式空间站太阳能板提供30千瓦的发电量。它在20米x5米的面积内容纳了33000个电芯。"
+
+Parts/Title/sp_f03_5x1,Text,,"DSPF_J1","DSPF_J1","DSPF_J1"
+Parts/Subtitle/sp_f03_5x1,Text,,"Flat Deployable Solar Panel x5","Panneau solaire plat déployable x5","可展开式平面太阳能板x5"
+Parts/Manufacturer/sp_f03_5x1,Text,,"KESA Agency","KESA Agency","坎星欧空局"
+Parts/Description/sp_f03_5x1,Text,,"This 5-pieces deployable solar panel was designed for the Juice probe.","Ce panneau solaire déployable en 5 éléments a été coçu pour la sonde Juice.","这款5片可展开式太阳能板是专为Juice探测器设计的。"
+
+Parts/Title/sp_f04_2x1,Text,,"DFSP-S2","DFSP-S2","DFSP-S2"
+Parts/Subtitle/sp_f04_2x1,Text,,"Flat Deployable Solar Panel","Panneau Solaire Plat Déployable","可展开式平面太阳能板"
+Parts/Manufacturer/sp_f04_2x1,Text,,"KESA Agency","KESA Agency","坎星欧空局"
+Parts/Description/sp_f04_2x1,Text,,"This 2-pieces deployable solar panel was designed for probes.","Ce panneau solaire déployable en 2 éléments a été coçu pour les sondes","这款2片可展开式太阳能板适合各种探测器。"
+
+Parts/Title/sp_f05_4x3,Text,,"DSPF-L12","DSPF-L12","DSPF-L12"
+Parts/Subtitle/sp_f05_4x3,Text,,"Flat Deployable Solar Panel","Panneau Solaire Plat Déployable","可展开式平面太阳能板"
+Parts/Manufacturer/sp_f05_4x3,Text,,"KESA Agency","KESA Agency","坎星欧空局"
+Parts/Description/sp_f05_4x3,Text,,"This 12-pieces deployable solar panel was designed for maximum power","Ce panneau solaire déployable en 12 éléments a été coçu pour un maximum d'énergie","这款12片可展开式太阳能板专为最大功率而设计。"
+
+Parts/Title/sp_f06_25x1,Text,,"DFSP-M25","DFSP-M25","DFSP-M25"
+Parts/Subtitle/sp_f06_25x1,Text,,"Flat Deployable Solar Panel","Panneau Solaire Plat Déployable","可展开式平面太阳能板"
+Parts/Manufacturer/sp_f06_25x1,Text,,"KESA Agency","KESA Agency","坎星欧空局"
+Parts/Description/sp_f06_25x1,Text,,"This 25-pieces deployable solar panel was designed for probes.","Ce panneau solaire déployable en 25 éléments a été coçu pour les sondes","这款25片可展开式太阳能板适合各种探测器。"
+
+Parts/Title/sp_f06_s_25x1,Text,,"DFSSP-M25","DFSSP-M25","DFSSP-M25"
+Parts/Subtitle/sp_f06_s_25x1,Text,,"Flat Shielded Deployable Solar Panel","Panneau Solaire Plat Déployable Blindé","带保护壳的可展开式平面太阳能板"
+Parts/Manufacturer/sp_f06_s_25x1,Text,,"KESA Agency","KESA Agency","坎星欧空局"
+Parts/Description/sp_f06_s_25x1,Text,,"This 25-pieces shielded deployable solar panel was designed for probes.","Ce panneau solaire déployable blindé en 25 éléments a été coçu pour les sondes","这款带保护壳的25片可展开式太阳能板适合各种探测器。"
+
+Parts/Title/sp1_s_sail,Text,,"SP1-SAIL","SP1-SAIL","SP1-SAIL"
+Parts/Subtitle/sp1_s_sail,Text,,"Solar sail panel","Panneau voile solaire","太阳帆"
+Parts/Manufacturer/sp1_s_sail,Text,,"KESA Agency","KESA Agency","坎星欧空局"
+Parts/Description/sp1_s_sail,Text,,"This solar panel is intended to be coupled to SP1-PWRUNIT to enable solar propulsion of the probes","Ce panneau solaire est destiné à être couplé à SP1-PWRUNIT pour permettre la propulsion solaire des sondes","这款太阳帆旨在与SP1-PWRUNIT组合使用，以实现探测器的太阳能推进。"
+
+Parts/Title/sp1_s_unit,Text,,"SP1-PWRUNIT","SP1-PWRUNIT","SP1-PWRUNIT"
+Parts/Subtitle/sp1_s_unit,Text,,"Solar Power Unit","Unité de puissance solaire","太阳能装置"
+Parts/Manufacturer/sp1_s_unit,Text,,"KESA Agency","KESA Agency","坎星欧空局"
+Parts/Description/sp1_s_unit,Text,,"This solar power unit is intended to receive SP1-SAIL to enable solar electric propulsion.","Cette unité de puissance solaire est destinée à recevoir SP1-SAIL pour permettre une propulsion solaire électrique.","这款太阳能装置旨在接收SP1-SAIL，以实现太阳能电力推进。"
+
+VAB/PartsPicker/0481-Solar Power,Text,,"Solar Power","Power solaire","太阳能"

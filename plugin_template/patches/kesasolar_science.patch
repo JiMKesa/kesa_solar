@@ -1,0 +1,55 @@
+:science #tNode_0v_electronics {
+	UnlockedPartsIDs +: [ 
+		"fspxs"
+	];
+}
+:science #tNode_1v_electronics_04 {
+	UnlockedPartsIDs +: [ 
+		"sp_f01_3x1",
+		"sp_f03_5x1",
+		"sp_f04_2x1",
+		"sp_f05_4x3",
+		"sp_f06_25x1"
+	];
+}
+:science #tNode_1v_rockets_03 {
+	UnlockedPartsIDs +: [ 
+		"cspsm",
+		"cspxs"
+	];
+}
+:science #tNode_2v_electronics_01 {
+	UnlockedPartsIDs +: [ 
+		"sp_f02_20x2"
+	];
+}
+:science #tNode_2v_rockets_01 {
+	UnlockedPartsIDs +: [ 
+		"cspmd",
+		"csp25"
+	];
+}
+:science #tNode_2v_rockets_03 {
+	UnlockedPartsIDs +: [ 
+		"mcsp"
+	];
+}
+:science #tNode_2v_science_01 {
+	UnlockedPartsIDs +: [ 
+		"sp_f06_s_25x1"
+	];
+}
+:science #tNode_3v_electronics_01 {
+	UnlockedPartsIDs +: [ 
+		"hubblesp"
+	];
+}
+:science #tNode_3v_rockets_01 {
+	UnlockedPartsIDs +: [ 
+		"cspxl",
+		"csp5",
+		"csp375",
+		"cdsp5",
+		"cdssp5"
+	];
+}

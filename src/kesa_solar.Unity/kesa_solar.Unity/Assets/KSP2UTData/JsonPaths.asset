@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87a7c8ca6df943af9ea67de238f088e6, type: 3}
+  m_Name: JsonPaths
+  m_EditorClassIdentifier: 
+  Keys:
+  - sp1_s_sail
+  - cdsp5
+  - sp1_s_unit
+  - cdssp5
+  - csp5
+  - csp25
+  - csp375
+  - cspmd
+  - cspsm
+  - cspxl
+  - cspxs
+  - fspxs
+  - hubblesp
+  - mcsp
+  - sp_f01_3x1
+  - sp_f02_20x2
+  - sp_f03_5x1
+  - sp_f04_2x1
+  - sp_f05_4x3
+  - sp_f06_25x1
+  - sp_f06_s_25x1
+  Values:
+  - '%NAME%.json'
+  - '%NAME%.json'
+  - '%NAME%.json'
+  - '%NAME%.json'
+  - '%NAME%.json'
+  - '%NAME%.json'
+  - '%NAME%.json'
+  - '%NAME%.json'
+  - '%NAME%.json'
+  - '%NAME%.json'
+  - '%NAME%.json'
+  - '%NAME%.json'
+  - '%NAME%.json'
+  - '%NAME%.json'
+  - '%NAME%.json'
+  - '%NAME%.json'
+  - '%NAME%.json'
+  - '%NAME%.json'
+  - '%NAME%.json'
+  - '%NAME%.json'
+  - '%NAME%.json'

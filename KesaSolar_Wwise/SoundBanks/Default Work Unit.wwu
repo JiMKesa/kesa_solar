@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{D800555D-016F-4AAD-9ADB-693C14D05BB4}" SchemaVersion="103">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{D800555D-016F-4AAD-9ADB-693C14D05BB4}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="kesa_solar" ID="{A569FA3A-300B-434E-9935-3D4187D22895}">
+					<ObjectInclusionList>
+						<ObjectRef Name="deploy2_stop" ID="{9226E8FA-9F67-4072-9170-49F8D21AB54C}" WorkUnitID="{2C150268-D79D-467B-B723-884F96BD03C0}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="clac1_stop" ID="{920014BA-B4C6-40C9-8575-51C9107E11AD}" WorkUnitID="{2C150268-D79D-467B-B723-884F96BD03C0}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="deploy3_stop" ID="{B3EA3388-0078-4103-B152-2358D08E5786}" WorkUnitID="{2C150268-D79D-467B-B723-884F96BD03C0}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="lift1_stop" ID="{3D1393CE-6AC7-4150-B690-3CEC814BB3E3}" WorkUnitID="{2C150268-D79D-467B-B723-884F96BD03C0}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="clac1_play" ID="{9A471FF6-02FC-41DF-BA50-D601336639D9}" WorkUnitID="{2C150268-D79D-467B-B723-884F96BD03C0}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="deploy1_play" ID="{4719051B-BB3E-4293-813D-9E24CB52A2C6}" WorkUnitID="{2C150268-D79D-467B-B723-884F96BD03C0}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="lift2_play" ID="{107954E8-B916-46CA-895D-3B22DB3620AE}" WorkUnitID="{2C150268-D79D-467B-B723-884F96BD03C0}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="clac2_stop" ID="{CC955B8A-2381-4886-822A-D56944DE45B4}" WorkUnitID="{2C150268-D79D-467B-B723-884F96BD03C0}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="deploy3_play" ID="{95BFABA1-7193-494F-BF43-1461B2A3B7C9}" WorkUnitID="{2C150268-D79D-467B-B723-884F96BD03C0}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="lift1_play" ID="{AAB3D9D1-8EF5-49D4-8B79-67D276549D04}" WorkUnitID="{2C150268-D79D-467B-B723-884F96BD03C0}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="clac2_play" ID="{FA786BD0-48FF-4A8D-BF8A-B681FBBFF286}" WorkUnitID="{2C150268-D79D-467B-B723-884F96BD03C0}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="deploy4_play" ID="{1EFF52A5-F3BA-4AF9-BAC1-8E6AE93E6111}" WorkUnitID="{2C150268-D79D-467B-B723-884F96BD03C0}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="bip1_play" ID="{9D4F6037-C6B3-4BE0-9DC0-CC7A8495C533}" WorkUnitID="{2C150268-D79D-467B-B723-884F96BD03C0}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="lift2_stop" ID="{0E4F3DB9-D36A-4D2D-8D1E-9329F696849F}" WorkUnitID="{2C150268-D79D-467B-B723-884F96BD03C0}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="deploy4_stop" ID="{A155F6DC-A4F2-4E3D-B49A-CE5F0E51E90E}" WorkUnitID="{2C150268-D79D-467B-B723-884F96BD03C0}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="deploy1_stop" ID="{987EF087-7A4F-4F1D-9F61-673AC5AB042F}" WorkUnitID="{2C150268-D79D-467B-B723-884F96BD03C0}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="deploy2_play" ID="{53C90E99-133C-4F73-BEF1-10718349E15F}" WorkUnitID="{2C150268-D79D-467B-B723-884F96BD03C0}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="bip1_stop" ID="{8E5B5A5D-107E-4FDE-99B7-7B092ED4C62D}" WorkUnitID="{2C150268-D79D-467B-B723-884F96BD03C0}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

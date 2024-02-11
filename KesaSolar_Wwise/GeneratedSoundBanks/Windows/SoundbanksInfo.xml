@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="140">
+	<RootPaths>
+		<ProjectRoot>C:\Users\jmb\Documents\Unity2022\kesa_solar\KesaSolar_Wwise\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\jmb\Documents\Unity2022\kesa_solar\KesaSolar_Wwise\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\jmb\Documents\Unity2022\kesa_solar\KesaSolar_Wwise\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\jmb\Documents\Unity2022\kesa_solar\KesaSolar_Wwise\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX" Hash="3690994985">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="1700355743" Language="SFX" Hash="242580744">
+			<ObjectPath>\SoundBanks\Default Work Unit\kesa_solar</ObjectPath>
+			<ShortName>kesa_solar</ShortName>
+			<Path>kesa_solar.bnk</Path>
+			<IncludedEvents>
+				<Event Id="632693656" Name="bip1_play" ObjectPath="\Events\Default Work Unit\bip1_play" DurationType="OneShot" DurationMin="1.771604" DurationMax="1.771604">
+					<IncludedMemoryFiles>
+						<File Id="556488811" Language="SFX">
+							<ShortName>bip1.wav</ShortName>
+							<Path>SFX\bip1_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2963564522" Name="bip1_stop" ObjectPath="\Events\Default Work Unit\bip1_stop" MaxAttenuation="0." DurationType="OneShot" DurationMin="0." DurationMax="0."/>
+				<Event Id="1229136034" Name="clac1_play" ObjectPath="\Events\Default Work Unit\clac1_play" DurationType="OneShot" DurationMin="0.695215" DurationMax="0.695215">
+					<IncludedMemoryFiles>
+						<File Id="586910184" Language="SFX">
+							<ShortName>clac1.wav</ShortName>
+							<Path>SFX\clac1_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1830675452" Name="clac1_stop" ObjectPath="\Events\Default Work Unit\clac1_stop" MaxAttenuation="0." DurationType="OneShot" DurationMin="0." DurationMax="0."/>
+				<Event Id="2117558675" Name="clac2_play" ObjectPath="\Events\Default Work Unit\clac2_play" DurationType="OneShot" DurationMin="0.393084" DurationMax="0.393084">
+					<IncludedMemoryFiles>
+						<File Id="1038467427" Language="SFX">
+							<ShortName>clac2.wav</ShortName>
+							<Path>SFX\clac2_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1247680889" Name="clac2_stop" ObjectPath="\Events\Default Work Unit\clac2_stop" MaxAttenuation="0." DurationType="OneShot" DurationMin="0." DurationMax="0."/>
+				<Event Id="3927116182" Name="deploy1_play" ObjectPath="\Events\Default Work Unit\deploy1_play" DurationType="OneShot" DurationMin="5.746939" DurationMax="5.746939">
+					<IncludedMemoryFiles>
+						<File Id="1036063158" Language="SFX">
+							<ShortName>deploy1.wav</ShortName>
+							<Path>SFX\deploy1_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="362686248" Name="deploy1_stop" ObjectPath="\Events\Default Work Unit\deploy1_stop" MaxAttenuation="0." DurationType="OneShot" DurationMin="0." DurationMax="0."/>
+				<Event Id="3475625639" Name="deploy2_play" ObjectPath="\Events\Default Work Unit\deploy2_play" DurationType="OneShot" DurationMin="4.272" DurationMax="4.272">
+					<IncludedMemoryFiles>
+						<File Id="920648510" Language="SFX">
+							<ShortName>deploy2.wav</ShortName>
+							<Path>SFX\deploy2_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2210764533" Name="deploy2_stop" ObjectPath="\Events\Default Work Unit\deploy2_stop" MaxAttenuation="0." DurationType="OneShot" DurationMin="0." DurationMax="0."/>
+				<Event Id="2730422816" Name="deploy3_play" ObjectPath="\Events\Default Work Unit\deploy3_play" DurationType="OneShot" DurationMin="2.28" DurationMax="2.28">
+					<IncludedMemoryFiles>
+						<File Id="356021594" Language="SFX">
+							<ShortName>deploy3.wav</ShortName>
+							<Path>SFX\deploy3_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1073681826" Name="deploy3_stop" ObjectPath="\Events\Default Work Unit\deploy3_stop" MaxAttenuation="0." DurationType="OneShot" DurationMin="0." DurationMax="0."/>
+				<Event Id="1469211817" Name="deploy4_play" ObjectPath="\Events\Default Work Unit\deploy4_play" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="566363865" Language="SFX">
+							<ShortName>deploy4.wav</ShortName>
+							<Path>SFX\deploy4_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2991628751" Name="deploy4_stop" ObjectPath="\Events\Default Work Unit\deploy4_stop" MaxAttenuation="0." DurationType="OneShot" DurationMin="0." DurationMax="0."/>
+				<Event Id="1669962388" Name="lift1_play" ObjectPath="\Events\Default Work Unit\lift1_play" DurationType="OneShot" DurationMin="5.232" DurationMax="5.232">
+					<IncludedMemoryFiles>
+						<File Id="898642044" Language="SFX">
+							<ShortName>lift1.wav</ShortName>
+							<Path>SFX\lift1_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3373865070" Name="lift1_stop" ObjectPath="\Events\Default Work Unit\lift1_stop" MaxAttenuation="0." DurationType="OneShot" DurationMin="0." DurationMax="0."/>
+				<Event Id="3540915721" Name="lift2_play" ObjectPath="\Events\Default Work Unit\lift2_play" DurationType="OneShot" DurationMin="2.808" DurationMax="2.808">
+					<IncludedMemoryFiles>
+						<File Id="783808014" Language="SFX">
+							<ShortName>lift2.wav</ShortName>
+							<Path>SFX\lift2_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="768365359" Name="lift2_stop" ObjectPath="\Events\Default Work Unit\lift2_stop" MaxAttenuation="0." DurationType="OneShot" DurationMin="0." DurationMax="0."/>
+			</IncludedEvents>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

@@ -1,0 +1,3243 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: anim_deployed
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_EulerCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: -0, y: 0, z: 0}
+        outSlope: {x: -0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bras_1_axe
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: -0, y: 0, z: 0}
+        outSlope: {x: -0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bras_1_axe/bras_1/rot_1_axe
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0, y: -4.0711098e-13, z: -1.2418096e-34}
+        inSlope: {x: -0, y: 0, z: 0}
+        outSlope: {x: -0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 4.1107e-41, y: -2.8926977e-27, z: -1.628444e-12}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: -0, y: 0, z: 0}
+        outSlope: {x: -0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: -0, y: 0, z: 0}
+        outSlope: {x: -0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: -0, y: 0, z: 0}
+        outSlope: {x: -0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: -0, y: 0, z: 0}
+        outSlope: {x: -0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: -0, y: 0, z: 0}
+        outSlope: {x: -0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: -0, y: 0, z: 0}
+        outSlope: {x: -0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: -0, y: 0, z: 0}
+        outSlope: {x: -0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: -0, y: 0, z: 0}
+        outSlope: {x: -0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: -0, y: 0, z: 0}
+        outSlope: {x: -0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: -0, y: 0, z: 0}
+        outSlope: {x: -0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: -0, y: 0, z: 0}
+        outSlope: {x: -0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: -0, y: 0, z: 0}
+        outSlope: {x: -0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: -0, y: 0, z: 0}
+        outSlope: {x: -0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: -0, y: 0, z: 0}
+        outSlope: {x: -0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: -0, y: 0, z: 0}
+        outSlope: {x: -0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: -0, y: 0, z: 0}
+        outSlope: {x: -0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017/PP.017/PA.018
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: -0, y: 0, z: 0}
+        outSlope: {x: -0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017/PP.017/PA.018/PP.018/PA.019
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: -0, y: 0, z: 0}
+        outSlope: {x: -0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017/PP.017/PA.018/PP.018/PA.019/PP.019/PA.020
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 1.798221e-21, y: 0, z: 4.1138503e-14}
+        inSlope: {x: 2.3509888e-35, y: 0, z: 0}
+        outSlope: {x: 2.3509888e-35, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017/PP.017/PA.018/PP.018/PA.019/PP.019/PA.020/PP.020/PA.021
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: -0, y: 0, z: 0}
+        outSlope: {x: -0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017/PP.017/PA.018/PP.018/PA.019/PP.019/PA.020/PP.020/PA.021/PP.021/PA.022
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -4.54982e-21, y: -1.0177775e-13, z: 0}
+        inSlope: {x: -2.8211867e-34, y: 0, z: 0}
+        outSlope: {x: -2.8211867e-34, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017/PP.017/PA.018/PP.018/PA.019/PP.019/PA.020/PP.020/PA.021/PP.021/PA.022/PP.022/PA.023
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: -0, y: 0, z: 0}
+        outSlope: {x: -0, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017/PP.017/PA.018/PP.018/PA.019/PP.019/PA.020/PP.020/PA.021/PP.021/PA.022/PP.022/PA.023/PP.023/PA.024
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -4.54982e-21, y: -1.0177775e-13, z: 0}
+        inSlope: {x: -2.8211864e-34, y: 0, z: 0}
+        outSlope: {x: -2.8211864e-34, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017/PP.017/PA.018/PP.018/PA.019/PP.019/PA.020/PP.020/PA.021/PP.021/PA.022/PP.022/PA.023/PP.023/PA.024/PP.024/PA.025
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: -90.00001, y: 0, z: 0}
+        inSlope: {x: 68.800575, y: 0, z: 0}
+        outSlope: {x: 68.800575, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: coffre/porteBP
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: {x: 90.00001, y: 0, z: 0}
+        inSlope: {x: -68.800575, y: 0, z: 0}
+        outSlope: {x: -68.800575, y: 0, z: 0}
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: coffre/porteHP
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 60
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - serializedVersion: 2
+      path: 640234497
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3704020107
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1221643813
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2866009245
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1981827252
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 735916195
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 740512755
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1851298634
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1400033211
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1879742534
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 514174010
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1294631603
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1958722778
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2694653122
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2410133400
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1843772877
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2929424999
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 4124117124
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2696919077
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1235065093
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3152780445
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 915473792
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2819552165
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 1354977176
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3716694555
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3448885790
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2609912685
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 3465346450
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+    - serializedVersion: 2
+      path: 2185354691
+      attribute: 4
+      script: {fileID: 0}
+      typeID: 4
+      customType: 4
+      isPPtrCurve: 0
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 0
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: bras_1_axe
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: bras_1_axe
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 90.94236
+        outSlope: 90.94236
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: bras_1_axe
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: bras_1_axe/bras_1/rot_1_axe
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: bras_1_axe/bras_1/rot_1_axe
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -90.94236
+        outSlope: -90.94236
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: bras_1_axe/bras_1/rot_1_axe
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -4.0711098e-13
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -1.2418096e-34
+        inSlope: -90.94236
+        outSlope: -90.94236
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 4.1107e-41
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -2.8926977e-27
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -1.628444e-12
+        inSlope: -1123.2003
+        outSlope: -1123.2003
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 1123.2003
+        outSlope: 1123.2003
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -1123.1963
+        outSlope: -1123.1963
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 1123.2006
+        outSlope: 1123.2006
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 1123.1963
+        outSlope: 1123.1963
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -1123.2003
+        outSlope: -1123.2003
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 1123.1963
+        outSlope: 1123.1963
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 1123.2006
+        outSlope: 1123.2006
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -1123.1963
+        outSlope: -1123.1963
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 1123.2
+        outSlope: 1123.2
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -1123.1995
+        outSlope: -1123.1995
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 1123.1995
+        outSlope: 1123.1995
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 1123.1995
+        outSlope: 1123.1995
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -1123.1995
+        outSlope: -1123.1995
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 1123.1995
+        outSlope: 1123.1995
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -1123.1995
+        outSlope: -1123.1995
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017/PP.017/PA.018
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017/PP.017/PA.018
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 1123.1995
+        outSlope: 1123.1995
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017/PP.017/PA.018
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017/PP.017/PA.018/PP.018/PA.019
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017/PP.017/PA.018/PP.018/PA.019
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -1123.2001
+        outSlope: -1123.2001
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017/PP.017/PA.018/PP.018/PA.019
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017/PP.017/PA.018/PP.018/PA.019/PP.019/PA.020
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017/PP.017/PA.018/PP.018/PA.019/PP.019/PA.020
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 1123.2001
+        outSlope: 1123.2001
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017/PP.017/PA.018/PP.018/PA.019/PP.019/PA.020
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1.798221e-21
+        inSlope: 2.3509888e-35
+        outSlope: 2.3509888e-35
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017/PP.017/PA.018/PP.018/PA.019/PP.019/PA.020/PP.020/PA.021
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -1123.2001
+        outSlope: -1123.2001
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017/PP.017/PA.018/PP.018/PA.019/PP.019/PA.020/PP.020/PA.021
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 4.1138503e-14
+        inSlope: 7.8886095e-28
+        outSlope: 7.8886095e-28
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017/PP.017/PA.018/PP.018/PA.019/PP.019/PA.020/PP.020/PA.021
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017/PP.017/PA.018/PP.018/PA.019/PP.019/PA.020/PP.020/PA.021/PP.021/PA.022
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017/PP.017/PA.018/PP.018/PA.019/PP.019/PA.020/PP.020/PA.021/PP.021/PA.022
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -1123.1995
+        outSlope: -1123.1995
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017/PP.017/PA.018/PP.018/PA.019/PP.019/PA.020/PP.020/PA.021/PP.021/PA.022
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -4.54982e-21
+        inSlope: -2.8211867e-34
+        outSlope: -2.8211867e-34
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017/PP.017/PA.018/PP.018/PA.019/PP.019/PA.020/PP.020/PA.021/PP.021/PA.022/PP.022/PA.023
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -1.0177775e-13
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017/PP.017/PA.018/PP.018/PA.019/PP.019/PA.020/PP.020/PA.021/PP.021/PA.022/PP.022/PA.023
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 1123.2003
+        outSlope: 1123.2003
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017/PP.017/PA.018/PP.018/PA.019/PP.019/PA.020/PP.020/PA.021/PP.021/PA.022/PP.022/PA.023
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017/PP.017/PA.018/PP.018/PA.019/PP.019/PA.020/PP.020/PA.021/PP.021/PA.022/PP.022/PA.023/PP.023/PA.024
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017/PP.017/PA.018/PP.018/PA.019/PP.019/PA.020/PP.020/PA.021/PP.021/PA.022/PP.022/PA.023/PP.023/PA.024
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -1123.1998
+        outSlope: -1123.1998
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017/PP.017/PA.018/PP.018/PA.019/PP.019/PA.020/PP.020/PA.021/PP.021/PA.022/PP.022/PA.023/PP.023/PA.024
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -4.54982e-21
+        inSlope: -2.8211864e-34
+        outSlope: -2.8211864e-34
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017/PP.017/PA.018/PP.018/PA.019/PP.019/PA.020/PP.020/PA.021/PP.021/PA.022/PP.022/PA.023/PP.023/PA.024/PP.024/PA.025
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -1.0177775e-13
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017/PP.017/PA.018/PP.018/PA.019/PP.019/PA.020/PP.020/PA.021/PP.021/PA.022/PP.022/PA.023/PP.023/PA.024/PP.024/PA.025
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 1123.2001
+        outSlope: 1123.2001
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017/PP.017/PA.018/PP.018/PA.019/PP.019/PA.020/PP.020/PA.021/PP.021/PA.022/PP.022/PA.023/PP.023/PA.024/PP.024/PA.025
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: -90.00001
+        inSlope: 68.800575
+        outSlope: 68.800575
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: coffre/porteBP
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: coffre/porteBP
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: coffre/porteBP
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 90.00001
+        inSlope: -68.800575
+        outSlope: -68.800575
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: coffre/porteHP
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: coffre/porteHP
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: -0
+        outSlope: -0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: coffre/porteHP
+    classID: 4
+    script: {fileID: 0}
+  m_EulerEditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017/PP.017/PA.018
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017/PP.017/PA.018
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017/PP.017/PA.018
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017/PP.017/PA.018/PP.018/PA.019/PP.019/PA.020/PP.020/PA.021
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017/PP.017/PA.018/PP.018/PA.019/PP.019/PA.020/PP.020/PA.021
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017/PP.017/PA.018/PP.018/PA.019/PP.019/PA.020/PP.020/PA.021
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017/PP.017/PA.018/PP.018/PA.019
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017/PP.017/PA.018/PP.018/PA.019
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017/PP.017/PA.018/PP.018/PA.019
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017/PP.017/PA.018/PP.018/PA.019/PP.019/PA.020
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017/PP.017/PA.018/PP.018/PA.019/PP.019/PA.020
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017/PP.017/PA.018/PP.018/PA.019/PP.019/PA.020
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017/PP.017/PA.018/PP.018/PA.019/PP.019/PA.020/PP.020/PA.021/PP.021/PA.022
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017/PP.017/PA.018/PP.018/PA.019/PP.019/PA.020/PP.020/PA.021/PP.021/PA.022
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017/PP.017/PA.018/PP.018/PA.019/PP.019/PA.020/PP.020/PA.021/PP.021/PA.022
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017/PP.017/PA.018/PP.018/PA.019/PP.019/PA.020/PP.020/PA.021/PP.021/PA.022/PP.022/PA.023/PP.023/PA.024
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017/PP.017/PA.018/PP.018/PA.019/PP.019/PA.020/PP.020/PA.021/PP.021/PA.022/PP.022/PA.023/PP.023/PA.024
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017/PP.017/PA.018/PP.018/PA.019/PP.019/PA.020/PP.020/PA.021/PP.021/PA.022/PP.022/PA.023/PP.023/PA.024
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017/PP.017/PA.018/PP.018/PA.019/PP.019/PA.020/PP.020/PA.021/PP.021/PA.022/PP.022/PA.023
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017/PP.017/PA.018/PP.018/PA.019/PP.019/PA.020/PP.020/PA.021/PP.021/PA.022/PP.022/PA.023
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017/PP.017/PA.018/PP.018/PA.019/PP.019/PA.020/PP.020/PA.021/PP.021/PA.022/PP.022/PA.023
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017/PP.017/PA.018/PP.018/PA.019/PP.019/PA.020/PP.020/PA.021/PP.021/PA.022/PP.022/PA.023/PP.023/PA.024/PP.024/PA.025
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017/PP.017/PA.018/PP.018/PA.019/PP.019/PA.020/PP.020/PA.021/PP.021/PA.022/PP.022/PA.023/PP.023/PA.024/PP.024/PA.025
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017/PP.017/PA.018/PP.018/PA.019/PP.019/PA.020/PP.020/PA.021/PP.021/PA.022/PP.022/PA.023/PP.023/PA.024/PP.024/PA.025
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: bras_1_axe/bras_1/rot_1_axe
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: bras_1_axe/bras_1/rot_1_axe
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: bras_1_axe/bras_1/rot_1_axe
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: bras_1_axe
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: bras_1_axe
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: bras_1_axe
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: coffre/porteHP
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: coffre/porteHP
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: coffre/porteHP
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: coffre/porteBP
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: coffre/porteBP
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: coffre/porteBP
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005/PP.005/PA.006/PP.006/PA.007/PP.007/PA.008/PP.008/PA.009/PP.009/PA.010/PP.010/PA.011/PP.011/PA.012/PP.012/PA.013/PP.013/PA.014/PP.014/PA.015/PP.015/PA.016/PP.016/PA.017
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: bras_1_axe/bras_1/rot_1_axe/rot_1/bras_2_axe/bras_2/bras_fin_axe/bras_fin_support/bras_fin_pivot/pivot/PA.001/PP.001/PA.002/PP.002/PA.003/PP.003/PA.004/PP.004/PA.005
+    classID: 4
+    script: {fileID: 0}
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_Events: []
