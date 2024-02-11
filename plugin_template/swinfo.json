@@ -6,7 +6,7 @@
   "description": "Kesa Agency solar parts mod",
   "source": "https://github.com/JiMKesa/kesa_solar.git",
   "version": "1.0.10",
-  "version_check": "https://github.com/JiMKesa/kesa_solar/blob/master/plugin_template/swinfo.json",
+  "version_check": "https://raw.githubusercontent.com/JiMKesa/kesa_solar/master/plugin_template/swinfo.json",
   "ksp2_version": {
     "min": "0.2.1",
     "max": "*"
